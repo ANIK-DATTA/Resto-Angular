@@ -1,0 +1,69 @@
+{
+  "resturaunt": [
+    {
+      "id": 1,
+      "name": "Haldiram",
+      "address": "Noida",
+      "email": "haldiram@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "address": "Delhi",
+      "email": "dominos@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Pizza hut",
+      "address": "ghaziabad",
+      "email": "ph@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Burger Kings",
+      "address": "Faridabad",
+      "email": "BK@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Mithas",
+      "address": "Indirapuram",
+      "email": "mithas@gmail.com"
+    },
+    {
+      "name": "Subway",
+      "email": "subway@hotmail.com",
+      "address": "Gurgaon",
+      "id": 6
+    },
+    {
+      "name": "Burger Singh",
+      "email": "burgerSingh@BS.com",
+      "address": "Dwarka",
+      "id": 7
+    },
+    {
+      "name": "Vango",
+      "email": "Vango@hotmal.com",
+      "address": "Mumbai",
+      "id": 8
+    }
+  ],
+  "login": [
+    {
+      "userName": "admin",
+      "password": "admin"
+    }
+  ],
+  "area": [
+    {
+      "city": [
+        "xNoida",
+        "Ghaziabad",
+        "Delhi",
+        "Gurgaon",
+        "Faridabad"
+      ]
+    }
+  ]
+}
