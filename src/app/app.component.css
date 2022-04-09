@@ -1,0 +1,7 @@
+.grid-container {
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: 8% 88%;
+    gap: 2%;
+    
+}

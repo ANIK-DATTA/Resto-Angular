@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+  flex-direction: row-reverse;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+#navText{
+    color: rgb(74, 86, 194);
+}
+
+@media only screen and (max-width: 1000px) {
+    img {
+      width: 50%;
+    }
+  }
